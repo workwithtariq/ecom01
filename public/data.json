@@ -1,0 +1,492 @@
+[
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  },
+  {
+    "_id": 1,
+    "brand": "Apple",
+    "series": "Premium",
+    "price": 1500,
+    "availability": "In stock"
+  },
+  {
+    "_id": 2,
+    "brand": "Dell",
+    "series": "Business",
+    "price": 1000,
+    "availability": "Out of stock"
+  }
+]
