@@ -7,12 +7,14 @@ import ProductCard from '../../components/ProductCard/ProductCard';
 const ProductsPage = () => {
   const [products, setProducts] = useState([]); // To store product data
   const [filters, setFilters] = useState({}); // To store applied filters
+  const apiUrl = `http://localhost:5000/api/laptops`;
+
 
   useEffect(() => {
     // Fetch products from the server (API call)
     const fetchProducts = async () => {
       try {
-        const response = await axios.get('/data.json', { params: filters });
+        const response = await axios.get(apiUrl, { params: filters });
         setProducts(response.data);
       } catch (error) {
         console.error('Error fetching products:', error);
